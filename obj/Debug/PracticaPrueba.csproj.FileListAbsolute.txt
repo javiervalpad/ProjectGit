@@ -1,0 +1,9 @@
+C:\Users\javiervalpad\Desktop\ProjectGit\PracticaPrueba\bin\Debug\PracticaPrueba.exe.config
+C:\Users\javiervalpad\Desktop\ProjectGit\PracticaPrueba\bin\Debug\PracticaPrueba.exe
+C:\Users\javiervalpad\Desktop\ProjectGit\PracticaPrueba\bin\Debug\PracticaPrueba.pdb
+C:\Users\javiervalpad\Desktop\ProjectGit\PracticaPrueba\obj\Debug\PracticaPrueba.csprojAssemblyReference.cache
+C:\Users\javiervalpad\Desktop\ProjectGit\PracticaPrueba\obj\Debug\PracticaPrueba.Form1.resources
+C:\Users\javiervalpad\Desktop\ProjectGit\PracticaPrueba\obj\Debug\PracticaPrueba.Properties.Resources.resources
+C:\Users\javiervalpad\Desktop\ProjectGit\PracticaPrueba\obj\Debug\PracticaPrueba.csproj.GenerateResource.cache
+C:\Users\javiervalpad\Desktop\ProjectGit\PracticaPrueba\obj\Debug\PracticaPrueba.exe
+C:\Users\javiervalpad\Desktop\ProjectGit\PracticaPrueba\obj\Debug\PracticaPrueba.pdb
